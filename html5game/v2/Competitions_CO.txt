@@ -40,7 +40,7 @@ uid	name	conference	division	active	type	time	seed_time	cycle	scheme	cat	city	st
 138	Unified	37	0	1	tb	1	0								std			none		none	none	none		
 139	Independents	38	0	1	tb	1	0								std			none		none	none	none		
 140	Atlantic	14	0	1	tb	1	0								std			none		none	none	none		
-1000	National Championship			1	gm	21	19	1,3		f	Inglewood	CA	tm:c_win:1003	tm:c_win:1005	std			cv_wl		h_champ	v_gold	cc100	misc	ed:finals:1
+1000	Major Championship			1	gm	21	19	1,3		f	Inglewood	CA	tm:c_win:1003	tm:c_win:1005	std			cv_wl		h_champ	v_gold	cc100	misc	ed:finals:1
 1001	Lilac Bowl			1	gm	20	17	1,3		b	Pasadena	CA	tm:pbowl:5	tm:pbowl:10	std			cv_wl	w	h_bowl	v_bronze	cc20	new_year_bowls	ed:bowls
 1002	Spice Bowl			1	gm	19	17	1,3		b	New Orleans	LA	tm:pbowl:11	tm:pbowl:4	std			cv_wl	w	h_bowl	v_bronze	cc20	new_year_bowls	ed:bowls
 1003	Nectarine Bowl			1	gm	19	17	1,3		sf	Atlanta	GA	tm:maj_rank:1	tm:maj_rank:4	std	pbp:exc:sd		cv_wl	wl	h_bowl	v_silver	cc10	new_year_bowls	ed:bowls
