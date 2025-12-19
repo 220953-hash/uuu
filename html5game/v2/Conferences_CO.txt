@@ -5,8 +5,8 @@ uid	name	tla	div_0_name	div_1_name	tier	divisions	active	real_life_tier_name	rea
 5	Big 10	B10	West	East	1	2	1	FBS	Big 10	3	champ
 6	Conference USA	C-USA	East	West	1	1	1	FBS	Conference USA	2	champ
 7	Independents	Ind	Independents	Not Used	1	1	1	FBS	Independents	0	no_completion
-8	Mid-USA	MAC	West	1	2	1	FBS	Mid-American	2	champ
-9	Mountain W.	MWC	East	West	1	2	0	FBS	Mountain West (2022)	2	champ
+8	MUSA	MAC	West	1	2	1	FBS	Mid-American	2	champ
+9	Mountain	MWC	East	West	1	2	0	FBS	Mountain West (2022)	2	champ
 10	Pac-12	P12	Pacific	Not Used	1	1	1	FBS	Pacific 12	3	champ
 11	Southeastern	SEC	East	West	1	2	1	FBS	Southeastern	3	champ
 12	Sun Belt	SBC	West	1	2	1	FBS	Sun Belt	2	champ
